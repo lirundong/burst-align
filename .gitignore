@@ -1,5 +1,16 @@
-# Created by .ignore support plugin (hsz.mobi)
+# latex caches
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.tar
 
+# produced files
+*.pdf
+
+# editors
+.vscode
 .idea
 .DS_store
 
