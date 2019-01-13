@@ -1,0 +1,6 @@
+numpy
+cython
+matplotlib
+pytorch >= 0.4.0
+rawpy
+pytest

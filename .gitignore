@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+.DS_store
+
+[Dd]ata
+
+__pycache__
+*.pyc
+
+# Cython generations
+[Bb]uild
+*.so
+align/align_cpu.c
+
+# Test caches
+.pytest_cache
+.cache
