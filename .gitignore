@@ -5,6 +5,7 @@
 *.fls
 *.gz
 *.tar
+*.xdv
 
 # produced files
 *.pdf

@@ -75,11 +75,13 @@ if __name__ == "__main__":
         {"downsample": 4},
         {"downsample": 4},
         {"downsample": 4},
+        # {"downsample": 4},
     ]
     tile_cfg = [
         {"size": 16, "search_step": 4},
         {"size": 16, "search_step": 4},
         {"size": 16, "search_step": 4},
+        # {"size": 16, "search_step": 4},
     ]
 
     burst = []

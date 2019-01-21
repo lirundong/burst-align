@@ -1,0 +1,5 @@
+_minted*
+*.bbl
+*.blg
+*.out
+*.log
